@@ -33,3 +33,9 @@ Once installed, launch JupyterLab with:
 ```sh
 jupyter-lab
 ```
+
+
+Use "!" to run bach command
+```sh
+!pip list
+```
